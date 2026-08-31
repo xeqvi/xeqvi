@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! Its Xeqvi.👋
+I'm a Software Developer which mostly works with JVM languages on Minecraft and Discord stuffs.
 
-<!--
-**xeqvi/xeqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make plugins, tools and lots of other fun stuff.
 
-Here are some ideas to get you started:
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,gradle,javascript,typescript,python,lua)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Technology](https://skillicons.dev/icons?i=kubernetes,docker,spring,workers,mongodb,redis,postgres)](https://skillicons.dev)
+
+### Contact
+
+[<img src="https://skillicons.dev/icons?i=instagram"/>](https://instagram.com/yashiog)
+[<img src="https://skillicons.dev/icons?i=discord"/>](https://discord.com/users/693482705131667458)
