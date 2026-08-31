@@ -9,5 +9,5 @@ I make plugins, tools and lots of other fun stuff.
 
 ### Contact
 
-[<img src="https://skillicons.dev/icons?i=instagram"/>](https://instagram.com/yashiog)
-[<img src="https://skillicons.dev/icons?i=discord"/>](https://discord.com/users/693482705131667458)
+[<img src="https://skillicons.dev/icons?i=instagram"/>](https://instagram.com/herex_771)
+[<img src="https://skillicons.dev/icons?i=discord"/>](https://discord.com/users/561565918082367488)
