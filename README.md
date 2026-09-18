@@ -17,7 +17,7 @@
 
 ---
 
-[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Xeqvi?cardType=level&theme=github-dark&fontFamily=Alata&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Xeqvi?cardType=level&theme=github-dark&fontFamily=Alata&preferLogin=false&Points.Commits=417&Points.ContributedToNotOwnerRepositories=417&Points.ContributedToOwnRepositories=417&Points.CreatedRepositories=3&Points.DirectStars=5&Points.Followers=14&Points.PullRequests=15&Points.CommitsToMyRepositories=25)](https://git.io/awesome-stats-card)
 
 ---
 
