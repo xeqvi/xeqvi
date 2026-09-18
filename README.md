@@ -5,7 +5,7 @@
 ## What I Do
 
 **System Programming** 
-— I code minecraft plugins, remaking a plugin that has the same hypixel server features.
+- I code minecraft plugins, remaking a plugin that has the same hypixel server features.
 - I code discord python bots, and i have my own full system bot that has all of the features needed for a discord server.
 
 ---
