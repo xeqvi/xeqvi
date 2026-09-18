@@ -17,7 +17,7 @@
 
 ---
 
-[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Alata&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Xeqvi?cardType=level&theme=github-dark&fontFamily=Alata&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
